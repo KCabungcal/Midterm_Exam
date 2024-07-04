@@ -4,7 +4,7 @@ function greetUser() {
     if (fname) {
         alert(`Hello, ${fname}! Welcome to our website.`);
     } else {
-        alert("Hello! Welcome to our website.");
+        alert(" Welcome to our website.");
     }
 }
 
